@@ -1,0 +1,7 @@
+{
+    "project_name": "config",
+    "app_names": [
+        "accounts",
+        "community"
+    ]
+}
