@@ -10,6 +10,7 @@ djangorestframework = "*"
 
 [dev-packages]
 faker = "*"
+isort = "*"
 
 [requires]
 python_version = "3.11"
